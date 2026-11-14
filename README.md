@@ -108,6 +108,7 @@ to learn.
 |---|---|
 | `explore_salmonella.ipynb` | All code, results and notes |
 | `toy_model.py` | A 5-reaction toy model I used to learn how FBA works |
+| `iYS1720.json` | The iYS1720 model file, downloaded from BiGG |
 | `sim1_oxygen_results.csv` | Simulation 1 data |
 | `fig_sim1_oxygen.png` | Simulation 1 figure |
 | `sim2_carbon_results.csv` | Simulation 2 data |
