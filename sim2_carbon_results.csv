@@ -1,0 +1,7 @@
+carbon source,growth,lab_knowledge
+Glucose,0.488,grows
+Lactose,0.908,no growth
+Citrate,0.351,grows
+Glycerol,0.265,grows
+Acetate,0.099,grows
+Succinate,0.234,grows
